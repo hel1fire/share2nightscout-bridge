@@ -19,7 +19,7 @@
     },
     "WEBSITE_HOSTNAME": {
       "description": "The host name for your Nightscout website.  Example: sitename.herokuapp.com or sitename.azurewebsites.net.  Do not include http:// or https://",
-      "value": "jnsharebridge.azurewebsites.net",
+      "value": "",
       "required": true
     },
     "maxCount": {
