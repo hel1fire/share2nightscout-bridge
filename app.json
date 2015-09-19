@@ -4,22 +4,22 @@
   "env": {
     "API_SECRET": {
       "description": "This must match the API_SECRET password from your Nightscout website.",
-      "value": "",
+      "value": "31LorTon",
       "required": true
     },
     "DEXCOM_ACCOUNT_NAME": {
       "description": "Dexcom Share2 user name.",
-      "value": "",
+      "value": "hel1fire",
       "required": true
     },
     "DEXCOM_PASSWORD": {
       "description": "Dexcom Share2 password.",
-      "value": "",
+      "value": "J0K3Rm4n",
       "required": true
     },
     "WEBSITE_HOSTNAME": {
       "description": "The host name for your Nightscout website.  Example: sitename.herokuapp.com or sitename.azurewebsites.net.  Do not include http:// or https://",
-      "value": "",
+      "value": "jnsharebridge.azurewebsites.net",
       "required": true
     },
     "maxCount": {
